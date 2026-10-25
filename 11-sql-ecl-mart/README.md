@@ -114,8 +114,3 @@ Isotonic 보정으로 해소되는지 검증했습니다.
 ## 사용 스택
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib), SQLite3(SQL: 정규화 설계, CTE, VIEW,
 윈도우 함수, 조건부 집계), Kaggle API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 카드사 IFRS9 충당금 산출과 SQL 기반 마트 운영 방식을
-공개데이터로 재현·학습하는 목적으로 진행한 프로젝트입니다. 분석 방향, 가정 설정, 결과 해석은 직접
-판단했으며, 구현은 AI의 도움을 받았습니다.
