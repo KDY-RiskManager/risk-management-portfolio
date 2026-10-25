@@ -69,9 +69,3 @@
 
 ## 사용 스택
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib), Kaggle API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 카드사 신용리스크 실무의
-행동패턴 기반 심사 프로세스를 공개데이터로 재현·학습하는 목적으로 진행한
-프로젝트입니다. 피처 설계와 결과 해석은 직접 판단했으며, 구현은 AI의 도움을
-받았습니다.
