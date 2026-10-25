@@ -59,8 +59,3 @@ DART(전자공시시스템) Open API로 코스닥 상장 중소기업의 재무�
 
 ## 사용 스택
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib), DART Open API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 실무 신용리스크 평가 프로세스를
-공개데이터로 재현·학습하는 목적으로 진행한 프로젝트입니다. 데이터 정의, 라벨링 방식,
-결과 해석은 직접 판단했으며, 구현은 AI의 도움을 받았습니다.
