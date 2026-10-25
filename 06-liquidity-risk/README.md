@@ -66,8 +66,3 @@ LCR·NSFR은 바젤III의 핵심 유동성 규제지표로, 은행 리스크관�
 
 ## 사용 스택
 Python (NumPy, Pandas, Matplotlib), Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 바젤III 유동성 규제 프레임워크를
-실제 계산으로 재현·심화하는 목적으로 진행한 프로젝트입니다. 시나리오 설계와
-결과 해석은 직접 판단했으며, 구현은 AI의 도움을 받았습니다.
