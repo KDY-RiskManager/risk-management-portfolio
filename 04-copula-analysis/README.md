@@ -54,8 +54,3 @@ Gaussian 가정만으로 자본을 산출할 경우 발생할 수 있는 과소�
 
 ## 사용 스택
 Python (NumPy, SciPy, Pandas, Matplotlib), Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 FRM 학습 내용을 실제 데이터 분석으로
-복습·심화하는 목적으로 진행한 프로젝트입니다. 코드 설계와 해석 방향은 직접 판단했으며,
-구현은 AI의 도움을 받았습니다.
