@@ -76,8 +76,3 @@ Kaggle의 실제 유럽 카드사 익명화 거래데이터(284,807건, 사기�
 
 ## 사용 스택
 Python (Pandas, NumPy, Scikit-learn, Matplotlib), Kaggle API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 핀테크 실무의 실시간 이상탐지
-프로세스를 공개데이터로 재현·학습하는 목적으로 진행한 프로젝트입니다. 평가지표
-선택과 결과 해석은 직접 판단했으며, 구현은 AI의 도움을 받았습니다.
