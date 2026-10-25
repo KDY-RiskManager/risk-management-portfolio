@@ -71,8 +71,3 @@ SQL 실무 역량 자체를 검증하는 데 목적을 두었습니다.
 
 ## 사용 스택
 Python, SQLite3, Pandas, Kaggle API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 SQL 기반 포트폴리오
-모니터링 실무를 재현·학습하는 목적으로 진행한 프로젝트입니다. 쿼리 설계와
-결과 해석은 직접 판단했으며, 구현은 AI의 도움을 받았습니다.
