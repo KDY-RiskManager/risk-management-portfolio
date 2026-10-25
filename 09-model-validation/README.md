@@ -67,8 +67,3 @@
 
 ## 사용 스택
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib), Kaggle API, Google Colab
-
-## 작성 노트
-코딩 초심자로서, Claude(Anthropic)의 도움을 받아 은행권 모델검증(Validation)
-실무 프레임워크를 직접 구현·적용하는 목적으로 진행한 프로젝트입니다. 검증
-항목 설계와 결과 해석은 직접 판단했으며, 구현은 AI의 도움을 받았습니다.
